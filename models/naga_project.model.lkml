@@ -3,6 +3,7 @@ connection: "energy_price_mx"
 # include all the views
 #first changes
 #second changes
+#third change
 include: "/views/**/*.view.lkml"
 
 datagroup: naga_project_default_datagroup {
